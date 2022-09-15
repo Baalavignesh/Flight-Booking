@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 function Dashboard() {
 
   return (
-    <div>kadha keka ready ah da punda!?</div>
+    <div>Admin Page</div>
   );
 }
 
